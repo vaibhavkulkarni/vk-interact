@@ -1,0 +1,1 @@
+This project hosts the client code for WebRTC.
